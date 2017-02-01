@@ -1,0 +1,9 @@
+02.10.2015
+
+Shahab Shafieihajiabady
+2159487
+
+Software used :Eclipse 4.4.2
+
+This program reads FPAE as a string and 
+writes converted postfix as a stirng
